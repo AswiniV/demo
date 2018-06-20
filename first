@@ -8,7 +8,7 @@ do
 then
       echo $n 'is even number'
    else
-      echo $n 'is ODD number'
+      echo $n 'is Odd number'
    fi
   # n=$(( $n + 1 ))
 done
